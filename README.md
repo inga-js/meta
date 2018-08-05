@@ -3,7 +3,7 @@ Por favor, crie um issue no Github neste repositório para qualquer coisa relaci
 
 Usamos o github (este site!) para discutir. Se você não está acostumado com isso, aqui está uma [introdução rápida] (https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
-Além disso, podemos no slack (devparana.herokuapp.com)!
+Além disso, também estamos slack (devparana.herokuapp.com)!
 
 ## [inga.js on slack](devparana.herokuapp.com)
 
