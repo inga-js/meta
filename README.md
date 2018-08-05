@@ -21,7 +21,7 @@ inga.js é sobre a criação de espaços sociais para fortalecer as comunidades 
 
 ## Presença nos meetups
 
-Todos os parcipantes interessados em ingresar em nossos encontros deverão confimar a participação no nosso [perfil do meetup] (https://www.meetup.com/pt-BR/developerparana/).
+Todos os parcipantes interessados em ingresar em nossos encontros deverão confimar a participação no nosso [perfil do meetup](https://www.meetup.com/pt-BR/developerparana/).
 
 ## Sobre o evento
 
