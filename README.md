@@ -12,7 +12,7 @@ Temos um canal no slack (#ingajs) do devparana todos são muito bem vindos!
 ## code of conduct
 
 Todos os eventos, atividades e espaços da Internet que levam o nome inga.js estão sujeitos ao [Código de Conduta do DevParana] (https://github.com/DeveloperParana/conduta). Em termos simples, o assédio de qualquer forma não será tolerado e deverá ser comunicado ao seu organizadores
-[@leonardoelias_] (https://twitter.com/leonardoelias_), [@eptaccio](https://twitter.com/eptaccio), [@PedroKuhn_](https://twitter.com/PedroKuhn_).Por favor, beba com responsabilidade e aja de uma maneira que honre os valores comunitários, respeito e enriquecimento mútuo que compartilhamos.
+[@leonardoelias_](https://twitter.com/leonardoelias_), [@eptaccio](https://twitter.com/eptaccio), [@PedroKuhn_](https://twitter.com/PedroKuhn_).Por favor, beba com responsabilidade e aja de uma maneira que honre os valores comunitários, respeito e enriquecimento mútuo que compartilhamos.
 
 ## uma nota sobre cerveja
 
